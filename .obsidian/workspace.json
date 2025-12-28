@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "698e4494765441d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "354adbd9bd012570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbdf61e6075c2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vibe-learning-system/库房/项目信息.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "项目信息"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c7c9dd7fde11cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6b596c4c95b8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c142983a76946707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "082f2268c7c5d12f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "09f4ea72e5a2a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d542b3403dbe7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c56e9ce74896ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27311498c4f5ebac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vibe-learning-system/库房/项目信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "项目信息 的反向链接列表"
+            }
+          },
+          {
+            "id": "88b24c39fcd2f87c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vibe-learning-system/库房/项目信息.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "项目信息 的出链列表"
+            }
+          },
+          {
+            "id": "411a2ef0773b6a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "df1f0ee79cf2262b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6358885ed7ae4bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vibe-learning-system/库房/项目信息.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "项目信息 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "afbdf61e6075c2d3",
+  "lastOpenFiles": [
+    "vibe-learning-system/库房/种子池/03. 语言不是学会的，而是慢慢生长出来的.md",
+    "vibe-learning-system/库房/种子池/02. 卢曼用卡片盒笔记法让知识自发涌现.md",
+    "vibe-learning-system/库房/种子池/01. 整体论：理解事物需要看整体而非拆解部分.md"
+  ]
+}
